@@ -5,7 +5,9 @@ This is my hobby project. You can take a 5 seconds-long web-cam capture while a 
 Mobile browser can also work. You can access both cameras of your phone or tablet.
 
 You can test the working example here. 
+
 https://web-cam-with-video-capture.vercel.app/
+
 Just press the big camera button and you can start.
 
 ## Available Scripts
