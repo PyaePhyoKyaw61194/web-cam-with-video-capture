@@ -1,6 +1,6 @@
 ## How to use
 
-This is my hobby project. You can take a 5 seconds-long web-cam capture while a dancer is dancing with you. You can preview and download the the short video back. The audio is also captured. Please notice that this web app cannot run well on Safarai since I don't have dancer video with transparent background. But, you can change the video source as you wish in the source code video tag.
+This is my hobby project. You can take a 5 seconds-long web-cam capture while a dancer is dancing with you. You can preview and download the the short video back. The audio is also captured. **Please notice that this web app cannot run well on iOS browsers** since I don't have dancer video with transparent background. But, you can change the video source as you wish in the source code video tag.
 
 Mobile browser can also work. You can access both cameras of your phone or tablet.
 
